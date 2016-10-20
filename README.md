@@ -2,4 +2,4 @@
 Do pracy na lab1 wsei.
 
 ## Zadanie 1
-Poznać znaczniki markdown.
+Poznać znaczniki markdown..
